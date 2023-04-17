@@ -1,1 +1,8 @@
-if - palabra reservada  
+Palabra clave: if
+Delimitador: x
+Delimitador: printf
+Delimitador: d
+Delimitador: es
+Delimitador: menor
+Delimitador: que
+Delimitador: x

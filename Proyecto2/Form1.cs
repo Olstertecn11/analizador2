@@ -25,7 +25,7 @@ namespace Proyecto2
             if (anal.done == true)
             {
                 string text = anal.output.ToString();
-                txt_output.Text = text;
+                txt_output.Text = text.Replace("\n", Environment.NewLine);
             }
             else
             {

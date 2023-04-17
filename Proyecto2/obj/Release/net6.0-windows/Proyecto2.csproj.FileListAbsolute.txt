@@ -1,0 +1,17 @@
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\bin\Release\net6.0-windows\Proyecto2.exe
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\bin\Release\net6.0-windows\Proyecto2.deps.json
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\bin\Release\net6.0-windows\Proyecto2.runtimeconfig.json
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\bin\Release\net6.0-windows\Proyecto2.dll
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\bin\Release\net6.0-windows\Proyecto2.pdb
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.Form1.resources
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.csproj.GenerateResource.cache
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.AssemblyInfo.cs
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.dll
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\refint\Proyecto2.dll
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.pdb
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\Proyecto2.genruntimeconfig.cache
+C:\Users\olste\source\repos\Compiladores\Proyecto2\Proyecto2\obj\Release\net6.0-windows\ref\Proyecto2.dll

@@ -1,0 +1,21 @@
+{ -  inicio_ins_op 
+} -  fin_ins_op 
+if - palabra reservada  
+printf - palabra reservada  
+( - prioridad_op  
+( - prioridad_op  
+) - prioridad_op  
+) - prioridad_op  
+< - operador_op  
+, - separacion_op  
+; - punto_y_coma  
+x -  <id1>  
+x -  <id1>  
+x -  <id1>  
+x -  <id1>  
+x -  <id1>  
+x -  <id1>  
+x -  <id1>  
+x -  <id1>  
+x -  <id1>  
+i -  <id1>  
